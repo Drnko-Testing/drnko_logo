@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/drnko_logo/static/css/main.d7da34c1.css",
+    "main.js": "/drnko_logo/static/js/main.4314c41c.js",
+    "index.html": "/drnko_logo/index.html",
+    "main.d7da34c1.css.map": "/drnko_logo/static/css/main.d7da34c1.css.map",
+    "main.4314c41c.js.map": "/drnko_logo/static/js/main.4314c41c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.4314c41c.js"
+  ]
+}
